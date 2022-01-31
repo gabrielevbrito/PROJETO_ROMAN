@@ -3,7 +3,7 @@
 
 # Clonar Repositório do Github 😺
 Para clonar o repostirório do GitHub você precisara verificar se a instalação do git foi feita, e se tudo estiver certo você exacutará o seguinte comando no terminal do Git:
-`git clone http://github.com/livianegrini/Roman`
+`git clone http://github.com/gabrielevbrito/Roman`
 
 # Criar o Banco de Dados 
 Para Criar o banco de dados após a clonagem do repositório para a sua máquina, você deverá abrir o SQL Server Management Studio (caso já o tenha instalado, caso contrário, o instale).
